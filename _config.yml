@@ -15,7 +15,7 @@ author:
   name: Blake Hampson
   email: blakemhampson@gmail.com
   url: about.me/BlakeHampson
-name: Whitecoat AI
+name: BlakWeb
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -41,7 +41,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Whitecoat AI
+title: WhitecoatAI
 description: securing healthcare databases
 url: 'http://www.whitecoatai.com/'
 purpose:
