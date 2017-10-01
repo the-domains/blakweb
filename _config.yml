@@ -1,0 +1,55 @@
+typography_spectrum: 0.056537840981036425
+color:
+  brandStrength: 0.4079455519095063
+  lightness: 0.2409357656724751
+  saturation: 0.9182381913997233
+  rhythmicContrast: 0.7198070040903986
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.3754348282236606
+author:
+  name: Blake Hampson
+  email: blakemhampson@gmail.com
+  url: about.me/BlakeHampson
+name: Whitecoat AI
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7af8e9d-4e0e-42cb-a247-9f52862c6d75.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7af8e9d-4e0e-42cb-a247-9f52862c6d75.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Whitecoat AI
+description: securing healthcare databases
+url: 'http://www.whitecoatai.com/'
+purpose:
+  - type: external
+    url: 'https://hampsonhealth.typeform.com/to/BjddTZ'
+    label: Evaluate your security
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ca4a87d-c7bd-4c2f-9352-fc9a6da61742.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/176cda09-2f68-4117-94c3-d48cdfce6e5f.png
